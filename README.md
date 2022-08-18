@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @sautrikc
-- 👀 I’m interested in ML, Deep Learning, Data Science.
-- 🌱 I’m currently learning ML and Data Science.
-- 💞️ I’m looking to collaborate on Data Science projects.
-- 📫 How to reach me ...
-
-<!---
-sautrikc/sautrikc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This code contains all the code as a part of Winter in Data Science. I used data visualization to analyse the data and gain key insights into the input features. Following this, various classification algorithms like Logistic Regression, K-Nearest Neighbors & Decision Trees. Further XGBoost was applied for boosting and final a final F1 score of 0.94 was obtained.
